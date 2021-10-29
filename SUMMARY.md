@@ -1,31 +1,31 @@
 # Table of contents
 
-* [Unofficial Guide to MeanFi](README.md)
+* [Hướng dẫn không chính thức về MeanFi](README.md)
 
-## Getting Started
+## BẮT ĐẦU THÔI
 
-* [Connecting your Wallet](getting-started/connecting-to-meanfi.md)
-* [Accounts](getting-started/accounts.md)
-* [Exchange](getting-started/your-wallet.md)
-* [Transfers](getting-started/transfers.md)
-* [Deposits](getting-started/deposits.md)
-* [Withdrawals](getting-started/withdrawals.md)
-* [Tools & Services](getting-started/tools-and-services.md)
+* [KẾT NỐI VÍ CỦA BẠN](bat-dau-thoi/connecting-to-meanfi.md)
+* [CÁC TÀI KHOẢN](bat-dau-thoi/accounts.md)
+* [TRAO ĐỔI](bat-dau-thoi/your-wallet.md)
+* [CHUYỂN KHOẢN](bat-dau-thoi/transfers.md)
+* [GỬI TIỀN](bat-dau-thoi/deposits.md)
+* [RÚT TIỀN](bat-dau-thoi/withdrawals.md)
+* [Các Công cụ & Dịch vụ](bat-dau-thoi/tools-and-services.md)
 
-## Mean University
+## ĐẠI HỌC MEAN
 
-* [Dollar Cost Averaging](mean-university/dollar-cost-averaging.md)
-* [Remittances](mean-university/remittances.md)
-* [Payroll & Salaries](mean-university/payroll-and-salaries.md)
+* [Tính phí Đô Trung bình](dai-hoc-mean/dollar-cost-averaging.md)
+* [Kiều hối](dai-hoc-mean/remittances.md)
+* [Bảng lương và lương](dai-hoc-mean/payroll-and-salaries.md)
 
-## Medium Articles
+## Những bài viết trên Medium
 
-* [The Mean Protocol and MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
+* [GIAO THỨC MEAN VÀ MEANFI](nhung-bai-viet-tren-medium/the-mean-protocol-and-meanfi.md)
 
-## Get involved
+## THAM GIA CÙNG CHÚNG TÔI
 
-* [App](https://app.meanfi.com)
-* [Website](https://meanfi.com)
+* [App (ỨNG DỤNG)](https://app.meanfi.com)
+* [Website (TRANG WEB)](https://meanfi.com)
 * [Discord](https://discord.meanfi.com)
 * [Twitter](https://twitter.com/meanfinance)
 * [DAO](https://docs.meanfi.com)

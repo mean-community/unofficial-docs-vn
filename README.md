@@ -1,39 +1,39 @@
 ---
 description: >-
-  This site is maintained by the Mean DAO community and serves as a resource to
-  explore the breadth of DeFi applications associated with the Mean Protocol
-  platform and MeanFi.
+  Trang web này được duy trì bởi cộng đồng Mean DAO và được dùng làm một nguồn
+  để khám phá phạm vi rộng của các ứng dụng DeFi liên quan đến nền tảng Mean
+  Protocol và MeanFi.This site is maintained by th
 ---
 
-# Unofficial Guide to MeanFi
+# Hướng dẫn không chính thức về MeanFi
 
-## Is this guide approved by the community?
+## **Hướng dẫn này có được cộng đồng chấp thuận không?**
 
-This guide was written by members of the Mean Community community, also known as Mean Apes, to explore the MeanFi decentralized platform in greater detail and present a variety of DeFi strategies by which users can derive additional value from the platform.&#x20;
+Hướng dẫn này được viết bởi các thành viên của cộng đồng Mean Community, còn được gọi là Mean Apes, để khám phá nền tảng phi tập trung MeanFi một cách chi tiết hơn và đưa ra một số chiến lược DeFi mà người dùng có thể lấy giá trị bổ sung từ nền tảng.
 
-This is not an official guide for Mean DAO, MeanFi, or Mean Protocol, nor it should be construed as financial advice. As always with DeFi and cryptocurrency in general, do your own research, and only invest what you’re comfortable with potentially losing.
+Đây không phải là hướng dẫn chính thức của Mean DAO, MeanFi hoặc Mean Protocol, và cũng không nên được coi là lời khuyên tài chính. Cũng như với DeFi và tiền điện tử nói chung, hãy tự nghiên cứu và chỉ đầu tư trong khả năng của bạn.
 
-## Where can I find the official documentation?
 
-Official documentation for the Mean DAO: [docs.meanfi.com](https://docs.meanfi.com)
 
-## What's the link for the application?
+## **Tôi có thể tìm thấy tài liệu chính thức ở đâu?**
 
-The MeanFi application can be found here: [app.meanfi.com](https://app.meanfi.com)
+Tài liệu chính thức của Mean DAO: docs.meanfi.com
 
-## What will I find on this website?
+## **Liên kết cho ứng dụng là gì?**
 
-The goal of this website is to present a variety of tutorials, getting started guides, and investment strategies that utilize the MeanFi. Topic samples include managing money streams, DCA, vaults, borrowing and repayments, and how to integrate Mean Finance into other DeFi protocols/strategies.&#x20;
+Ứng dụng MeanFi có thể được tìm thấy tại đây: app.meanfi.com
 
-Lastly, information on how to efficiently use Mean DAO's native token, MEAN, will be provided, as they develop.
+## **Bạn sẽ tìm được gì trên trang web này?**
 
-## What will I not find on this website?
+Mục tiêu của trang web này là đưa ra một số hướng dẫn, hướng dẫn bắt đầu và chiến lược đầu tư sử dụng MeanFi. Các chủ đề mẫu bao gồm quản lý dòng tiền, DCA, kho tiền, vay và trả, và cách tích hợp Mai Finance vào các chiến lược/giao thức DeFi khác.
 
-Some assumptions we are making are:
+Cuối cùng, trang web sẽ cung cấp cách sử dụng hiệu quả mã thông báo bản địa (native token) của Mean DAO, MEAN, mỗi khi có thông tin mới.
 
-* Readers are already aware of DeFi projects on Solana, and the Solana Ecosystem in general.
-* Have a good understanding of how cryptocurrency works, and are informed of the different risks related to the cryptocurrency industry in general.&#x20;
+## **Bạn sẽ không tìm được gì ở đây?**
 
-If you have questions about the Tokenomics of MEAN, and other basic tenants of the Mean Protocol and MeanFi, please read the official documentation (link above) or join the [Discord](https://discord.meanfi.com) community.
+Chúng tôi sẽ cho rằng:&#x20;
 
-There is no OFFICIAL Telegram Community. If you join an unofficial group, do so at your own risk.
+* Người đọc đã biết đến dự án DeFi trên Solana, và Hệ sinh thái Solana nói chung.&#x20;
+* Đã hiểu biết tốt về cách tiền điện tử hoạt động, và đã hiểu được những rủi ro khác liên quan đến ngành công nghiệp tiền điện tử nói chung.&#x20;
+
+Nếu bạn có câu hỏi về Nền kinh tế mã thông báo (Tokenomics) của MEAN, và những người thuê cơ bản của Giao thức MEAN và MeanFi, xin hãy đọc tài liệu chính thức (đã được dẫn link ở trên) hoặc tham gia vào cộng đồng Chúng tôi không có Cộng đồng Telegram CHÍNH THỨC. Nếu bạn tham gia vào một nhóm không chính thức, bạn cũng chấp nhận những rủi ro đi kèm.
